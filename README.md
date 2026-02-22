@@ -12,9 +12,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2500&color=F5F5F7&vCenter=true&width=500&repeat=false&lines=一款帮助游戏设计师系统学习和应用;《游戏设计艺术》中专业技能的收集与训练应用" alt="Description" />
-</p>
+一款帮助游戏设计师系统学习和应用《游戏设计艺术》中专业技能的收集与训练应用
 
 ---
 
@@ -31,7 +29,7 @@
 ## ✨ 功能特点
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1800&color=F5F5F7&vCenter=true&width=450&repeat=true&lines=智能识别+%7C+AI+自动识别技能;技能图鉴+%7C+72+核心技能+7+大分类;翻卡收藏+%7C+精美卡牌+点亮图鉴;成就系统+%7C+里程碑追踪进度;数据统计+%7C+积分收集一目了然;分享海报+%7C+二维码展示成就" alt="Features Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=F5F5F7&vCenter=true&width=500&repeat=true&lines=AI+Recognition+%7C+Auto+identify+skills;Skill+Gallery+%7C+72+skills+7+categories;Card+Collection+%7C+Beautiful+card+deck;Achievements+%7C+Track+your+progress;Stats+Dashboard+%7C+Points+and+collection;Share+Poster+%7C+QR+code+sharing" alt="Features Animation" />
 </p>
 
 ---
@@ -57,7 +55,7 @@
 ## 🌟 稀有度系统
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1500&color=FFD700&vCenter=true&width=400&repeat=true&lines=初级+%7C+10-20+pts+%7C+Aurora+Green;中级+%7C+21-40+pts+%7C+Electric+Blue;高级+%7C+41-60+pts+%7C+Deep+Violet;专家+%7C+61-80+pts+%7C+Fluorescent+Orange;大师+%7C+81-100+pts+%7C+Master+Gold" alt="Rarity System" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1500&color=FFD700&vCenter=true&width=450&repeat=true&lines=Beginner+%7C+10-20+pts+%7C+Aurora+Green;Intermediate+%7C+21-40+pts+%7C+Electric+Blue;Advanced+%7C+41-60+pts+%7C+Deep+Violet;Expert+%7C+61-80+pts+%7C+Fluorescent+Orange;Master+%7C+81-100+pts+%7C+Master+Gold" alt="Rarity System" />
 </p>
 
 ---
@@ -67,7 +65,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2000&color=00A3FF&vCenter=true&width=550&repeat=true&lines=Sawano%5BnZk%5D+Inspired+%7C+Neon+Dark+Theme;深邃背景+%7C+%230A0B10+%2B+%2312141A;高对比文本+%7C+%23F5F5F7+%2B+%23FFFFFF;霓虹泼墨色+%7C+Electric+Blue+%2B+Aurora+Green;视觉张力+%7C+发光动画+%2B+噪点纹理" alt="Design Style" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2000&color=00A3FF&vCenter=true&width=600&repeat=true&lines=Sawano%5BnZk%5D+Inspired+%7C+Neon+Dark+Theme;Deep+Backgrounds+%7C+%230A0B10;High+Contrast+Text+%7C+%23F5F5F7;Neon+Splash+Colors+%7C+Electric+Blue+%2B+Aurora+Green;Visual+Effects+%7C+Glow+Animations" alt="Design Style" />
 </p>
 
 ### 核心调色盘
@@ -146,7 +144,7 @@ python main.py
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2500&color=00A3FF&vCenter=true&width=300&repeat=false&lines=访问+http%3A%2F%2Flocalhost%3A8000" alt="Visit URL" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2500&color=00A3FF&vCenter=true&width=300&repeat=false&lines=Visit+http%3A%2F%2Flocalhost%3A8000" alt="Visit URL" />
 </p>
 
 ---
@@ -173,13 +171,13 @@ docker run -p 8000:8000 \
 ### 后端 Backend
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1800&color=6B46C1&vCenter=true&width=350&repeat=true&lines=FastAPI+%7C+高性能+Web+框架;Uvicorn+%7C+ASGI+服务器;OpenAI+SDK+%7C+多模态+AI+调用" alt="Backend Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=6B46C1&vCenter=true&width=400&repeat=true&lines=FastAPI+%7C+High-performance+Web+Framework;Uvicorn+%7C+ASGI+Server;OpenAI+SDK+%7C+Multimodal+AI+API" alt="Backend Stack" />
 </p>
 
 ### 前端 Frontend
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1800&color=00A3FF&vCenter=true&width=400&repeat=true&lines=DaisyUI+%7C+组件化+UI+框架;Tailwind+CSS+%7C+实用优先+CSS+框架;QRCode.js+%7C+二维码生成;html2canvas+%7C+截图分享" alt="Frontend Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=00A3FF&vCenter=true&width=450&repeat=true&lines=DaisyUI+%7C+Component+UI+Framework;Tailwind+CSS+%7C+Utility-First+CSS;QRCode.js+%7C+QR+Code+Generator;html2canvas+%7C+Screenshot+Sharing" alt="Frontend Stack" />
 </p>
 
 </div>
@@ -191,7 +189,7 @@ docker run -p 8000:8000 \
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2200&color=FFD700&vCenter=true&width=600&repeat=false&lines=本项目技能数据来源于;Jesse+Schell+的经典著作;《游戏设计艺术（第2版）》" alt="Knowledge Source" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2200&color=FFD700&vCenter=true&width=600&repeat=false&lines=Skills+from+The+Art+of+Game+Design;by+Jesse+Schell+%282nd+Edition%29" alt="Knowledge Source" />
 </p>
 
 ---
@@ -200,11 +198,11 @@ docker run -p 8000:8000 \
 
 <p align="center">
   <a href="https://github.com/kitchen-engineer42/pdf2skills">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2500&color=39FF14&vCenter=true&width=450&repeat=false&lines=特别感谢+kitchen-engineer42%2Fpdf2skills+团队;提供的技能提取工具;为本项目奠定了坚实的数据基础" alt="Thanks to kitchen-engineer42/pdf2skills" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2500&color=39FF14&vCenter=true&width=500&repeat=false&lines=Special+thanks+to+kitchen-engineer42%2Fpdf2skills;For+their+skill+extraction+tool;Which+provided+the+data+foundation" alt="Thanks to kitchen-engineer42/pdf2skills" />
   </a>
 </p>
 
-[![kitchen-engineer42/pdf2skills](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=0&color=FFFFFF&vCenter=true&width=350&repeat=false&lines=pdf2skills+%7C+技能提取工具)](https://github.com/kitchen-engineer42/pdf2skills)
+[![kitchen-engineer42/pdf2skills](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=0&color=FFFFFF&vCenter=true&width=350&repeat=false&lines=pdf2skills+%7C+Skill+Extraction+Tool)](https://github.com/kitchen-engineer42/pdf2skills)
 
 </div>
 
@@ -213,7 +211,7 @@ docker run -p 8000:8000 \
 ## 📄 许可证
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=3000&color=00A3FF&vCenter=true&width=250&repeat=true&lines=MIT+License;自由使用+自由修改;自由分发" alt="License" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=3000&color=00A3FF&vCenter=true&width=300&repeat=true&lines=MIT+License;Free+to+use;Free+to+modify" alt="License" />
 </p>
 
 ---
@@ -223,7 +221,7 @@ docker run -p 8000:8000 \
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=39FF14&vCenter=true&width=400&repeat=true&lines=欢迎提交+Issue+%7C+报告+Bug+%2B+功能建议;欢迎提交+PR+%7C+代码贡献+%2B+文档改进" alt="Contributing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=39FF14&vCenter=true&width=450&repeat=true&lines=Welcome+Issues+%7C+Report+bugs+%2B+Suggest+features;Welcome+PRs+%7C+Code+contributions+%2B+Docs" alt="Contributing" />
 </p>
 
 ---
@@ -233,7 +231,7 @@ docker run -p 8000:8000 \
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=00A3FF&vCenter=true&width=300&repeat=true&lines=Happy+Game+Designing%21;Collect.+Learn.+Create." alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=00A3FF&vCenter=true&width=350&repeat=true&lines=Happy+Game+Designing%21;Collect.+Learn.+Create." alt="Footer" />
 </p>
 
 <p align="center">
