@@ -1,5 +1,9 @@
 # 🎮 Game Design Art Skill Deck
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=6D72C3&vCenter=true&width=600&repeat=false&lines=AI+Powered+Game+Design+Skill+Collection;72+Skills+from+The+Art+of+Game+Design;Collect.+Learn.+Master." alt="Typing SVG" />
+</p>
+
 一款帮助游戏设计师系统学习和应用《游戏设计艺术》中专业技能的收集与训练应用。
 
 ## ✨ 功能特点
