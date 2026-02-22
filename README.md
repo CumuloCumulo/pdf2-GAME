@@ -3,11 +3,11 @@
 # 🎮 Game Design Art Skill Deck
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00A3FF&vCenter=true&width=700&repeat=false&lines=✧+AI+Powered+Game+Design+Skill+Collection;✧+72+Skills+from+The+Art+of+Game+Design;✧+Collect.+Learn.+Master.+Create." alt="Main Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00A3FF&vCenter=true&width=700&repeat=false&lines=AI+Powered+Game+Design+Skill+Collection;72+Skills+from+The+Art+of+Game+Design;Collect.+Learn.+Master.+Create." alt="Main Title" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=3000&color=39FF14&vCenter=true&width=600&repeat=true&lines=⚡+Neon+Dark+Theme+%7C+Sawano%5BnZk%5D+Inspired;⚡+Electric+Blue+%2B+Aurora+Green+%2B+Deep+Violet;⚡+High+Contrast+%2B+Visual+Tension" alt="Theme Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=3000&color=39FF14&vCenter=true&width=600&repeat=true&lines=Neon+Dark+Theme+%7C+Sawano%5BnZk%5D+Inspired;Electric+Blue+%2B+Aurora+Green+%2B+Deep+Violet;High+Contrast+%2B+Visual+Tension" alt="Theme Tagline" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ## ✨ 功能特点
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1800&color=F5F5F7&vCenter=true&width=450&repeat=true&lines=📸+智能识别+%7C+AI+自动识别技能;📖+技能图鉴+%7C+72+核心技能+7+大分类;🃏+翻卡收藏+%7C+精美卡牌+点亮图鉴;🏆+成就系统+%7C+里程碑追踪进度;📊+数据统计+%7C+积分收集一目了然;📤+分享海报+%7C+二维码展示成就" alt="Features Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1800&color=F5F5F7&vCenter=true&width=450&repeat=true&lines=智能识别+%7C+AI+自动识别技能;技能图鉴+%7C+72+核心技能+7+大分类;翻卡收藏+%7C+精美卡牌+点亮图鉴;成就系统+%7C+里程碑追踪进度;数据统计+%7C+积分收集一目了然;分享海报+%7C+二维码展示成就" alt="Features Animation" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ## 🌟 稀有度系统
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1500&color=FFD700&vCenter=true&width=400&repeat=true&lines=🟢+初级+%7C+10-20+pts+%7C+Aurora+Green;🔵+中级+%7C+21-40+pts+%7C+Electric+Blue;🟣+高级+%7C+41-60+pts+%7C+Deep+Violet;🟠+专家+%7C+61-80+pts+%7C+Fluorescent+Orange;🌟+大师+%7C+81-100+pts+%7C+Master+Gold" alt="Rarity System" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1500&color=FFD700&vCenter=true&width=400&repeat=true&lines=初级+%7C+10-20+pts+%7C+Aurora+Green;中级+%7C+21-40+pts+%7C+Electric+Blue;高级+%7C+41-60+pts+%7C+Deep+Violet;专家+%7C+61-80+pts+%7C+Fluorescent+Orange;大师+%7C+81-100+pts+%7C+Master+Gold" alt="Rarity System" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2000&color=00A3FF&vCenter=true&width=550&repeat=true&lines=Sawano%5BnZk%5D+Inspired+%7C+Neon+Dark+Theme;深邃背景+%7C+#0A0B10+%2B+#12141A;高对比文本+%7C+#F5F5F7+%2B+#FFFFFF;霓虹泼墨色+%7C+Electric+Blue+%2B+Aurora+Green;视觉张力+%7C+发光动画+%2B+噪点纹理" alt="Design Style" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2000&color=00A3FF&vCenter=true&width=550&repeat=true&lines=Sawano%5BnZk%5D+Inspired+%7C+Neon+Dark+Theme;深邃背景+%7C+%230A0B10+%2B+%2312141A;高对比文本+%7C+%23F5F5F7+%2B+%23FFFFFF;霓虹泼墨色+%7C+Electric+Blue+%2B+Aurora+Green;视觉张力+%7C+发光动画+%2B+噪点纹理" alt="Design Style" />
 </p>
 
 ### 核心调色盘
@@ -93,11 +93,11 @@
 
 ### 视觉效果
 
-- ✨ **霓虹泼墨背景** - 多重径向渐变模拟电光蓝、极光绿、深紫的泼墨效果
-- 🎭 **噪点纹理叠加** - SVG 噪点滤镜增加墨迹感和层次
-- 💫 **发光动画** - 进度条渐变流动、卡片脉冲光晕
-- 🌈 **高对比度** - 深黑背景 + 亮白文本 + 霓虹点缀
-- ⚡ **动态交互** - hover 时的霓虹光晕、导航栏极光绿指示条
+- **霓虹泼墨背景** - 多重径向渐变模拟电光蓝、极光绿、深紫的泼墨效果
+- **噪点纹理叠加** - SVG 噪点滤镜增加墨迹感和层次
+- **发光动画** - 进度条渐变流动、卡片脉冲光晕
+- **高对比度** - 深黑背景 + 亮白文本 + 霓虹点缀
+- **动态交互** - hover 时的霓虹光晕、导航栏极光绿指示条
 
 </div>
 
@@ -131,10 +131,6 @@ uv pip install fastapi uvicorn "openai>=1.0" python-multipart
 ```
 
 ### 配置
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=2000&color=39FF14&vCenter=true&width=400&repeat=false&lines=export+LLM_API_KEY=%22your-api-key%22;export+LLM_BASE_URL=%22https%3A%2F%2Fapi.openai.com%2Fv1%22;export+LLM_MODEL_VISION=%22gpt-4o%22" alt="Config Commands" />
-</p>
 
 ```bash
 export LLM_API_KEY="your-api-key"
@@ -177,13 +173,13 @@ docker run -p 8000:8000 \
 ### 后端 Backend
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1800&color=6B46C1&vCenter=true&width=350&repeat=true&lines=⚡+FastAPI+%7C+高性能+Web+框架;🚀+Uvicorn+%7C+ASGI+服务器;🤖+OpenAI+SDK+%7C+多模态+AI+调用" alt="Backend Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1800&color=6B46C1&vCenter=true&width=350&repeat=true&lines=FastAPI+%7C+高性能+Web+框架;Uvicorn+%7C+ASGI+服务器;OpenAI+SDK+%7C+多模态+AI+调用" alt="Backend Stack" />
 </p>
 
 ### 前端 Frontend
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1800&color=00A3FF&vCenter=true&width=400&repeat=true&lines=🎨+DaisyUI+%7C+组件化+UI+框架;🎯+Tailwind+CSS+%7C+实用优先+CSS+框架;📱+QRCode.js+%7C+二维码生成;📸+html2canvas+%7C+截图分享" alt="Frontend Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1800&color=00A3FF&vCenter=true&width=400&repeat=true&lines=DaisyUI+%7C+组件化+UI+框架;Tailwind+CSS+%7C+实用优先+CSS+框架;QRCode.js+%7C+二维码生成;html2canvas+%7C+截图分享" alt="Frontend Stack" />
 </p>
 
 </div>
@@ -208,7 +204,7 @@ docker run -p 8000:8000 \
   </a>
 </p>
 
-[![kitchen-engineer42/pdf2skills](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=0&color=FFFFFF&vCenter=true&width=350&repeat=false&lines=📄+pdf2skills+%7C+技能提取工具)](https://github.com/kitchen-engineer42/pdf2skills)
+[![kitchen-engineer42/pdf2skills](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=0&color=FFFFFF&vCenter=true&width=350&repeat=false&lines=pdf2skills+%7C+技能提取工具)](https://github.com/kitchen-engineer42/pdf2skills)
 
 </div>
 
@@ -237,11 +233,11 @@ docker run -p 8000:8000 \
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=00A3FF&vCenter=true&width=300&repeat=true&lines=⚡+Happy+Game+Designing!;🎮+Collect.+Learn.+Create." alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=00A3FF&vCenter=true&width=300&repeat=true&lines=Happy+Game+Designing%21;Collect.+Learn.+Create." alt="Footer" />
 </p>
 
 <p align="center">
-  <sub>Made with ❤️ and ✨ Neon Magic</sub>
+  <sub>Made with Neon Magic</sub>
 </p>
 
 </div>
