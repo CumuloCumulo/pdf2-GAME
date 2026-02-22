@@ -1,0 +1,9 @@
+[
+  {"id":"space-design","name":"空间设计","category":"世界构建","description":"设计有趣且功能性的游戏空间","difficulty":4,"rarity":"高级","score":48,"application":"地图设计、导航设计、空间叙事"},
+  {"id":"world-rules","name":"世界规则","category":"世界构建","description":"建立一致且有趣的游戏世界规则","difficulty":3,"rarity":"中级","score":38,"application":"物理系统、魔法体系、科技设定"},
+  {"id":"atmosphere-design","name":"氛围营造","category":"世界构建","description":"通过视听元素营造沉浸式游戏氛围","difficulty":3,"rarity":"中级","score":36,"application":"音效设计、光影效果、环境美术"},
+  {"id":"map-design","name":"地图设计","category":"世界构建","description":"设计清晰且引导性强的游戏地图","difficulty":3,"rarity":"中级","score":34,"application":"开放世界、迷宫设计、导航系统"},
+  {"id":"procedural-generation","name":"程序化生成","category":"世界构建","description":"使用算法自动生成游戏内容和世界","difficulty":5,"rarity":"专家","score":65,"application":"随机地图、无限内容、Roguelike"},
+  {"id":"theme-integration","name":"主题整合","category":"世界构建","description":"确保游戏所有元素服务于统一主题","difficulty":3,"rarity":"中级","score":38,"application":"美术风格、音乐选择、UI设计"},
+  {"id":"cultural-design","name":"文化设计","category":"世界构建","description":"在游戏世界中融入丰富的文化元素","difficulty":4,"rarity":"高级","score":44,"application":"种族设定、文明设计、文化冲突"}
+]

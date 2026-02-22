@@ -1,0 +1,10 @@
+[
+  {"id":"flow-theory","name":"心流理论","category":"心理与动机","description":"设计让玩家进入心流状态的游戏体验","difficulty":4,"rarity":"高级","score":50,"application":"难度曲线设计、挑战平衡、沉浸体验"},
+  {"id":"motivation-models","name":"动机模型","category":"心理与动机","description":"运用内在和外在动机理论驱动玩家行为","difficulty":3,"rarity":"中级","score":38,"application":"奖励系统、进度设计、玩家留存"},
+  {"id":"player-psychology","name":"玩家心理学","category":"心理与动机","description":"理解玩家的认知模式和心理需求","difficulty":4,"rarity":"高级","score":48,"application":"用户研究、行为预测、体验设计"},
+  {"id":"emotion-design","name":"情感设计","category":"心理与动机","description":"有意识地设计游戏中的情感体验","difficulty":4,"rarity":"高级","score":52,"application":"叙事设计、氛围营造、玩家共鸣"},
+  {"id":"reward-systems","name":"奖励系统设计","category":"心理与动机","description":"设计有效的奖励机制维持玩家动力","difficulty":3,"rarity":"中级","score":36,"application":"经济系统、成就系统、进度反馈"},
+  {"id":"player-types","name":"玩家类型分析","category":"心理与动机","description":"识别不同玩家类型并为其设计体验","difficulty":3,"rarity":"中级","score":34,"application":"受众分析、功能优先级、个性化设计"},
+  {"id":"curiosity-design","name":"好奇心设计","category":"心理与动机","description":"利用好奇心驱动玩家探索和发现","difficulty":3,"rarity":"中级","score":32,"application":"关卡设计、秘密区域、信息揭示"},
+  {"id":"feedback-loops","name":"反馈循环","category":"心理与动机","description":"设计正向和负向反馈循环调节游戏体验","difficulty":4,"rarity":"高级","score":46,"application":"平衡性设计、难度调节、系统稳定"}
+]

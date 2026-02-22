@@ -1,0 +1,31 @@
+{
+  "hasCompletedOnboarding": true,
+  "mcpServers": {
+    "context7": {
+      "command": "context7-mcp",
+      "args": []
+    },
+    "fetch": {
+      "command": "python",
+      "args": [
+        "-m",
+        "mcp_server_fetch"
+      ]
+    },
+    "sequential-thinking": {
+      "command": "mcp-server-sequential-thinking",
+      "args": []
+    },
+    "memory": {
+      "command": "mcp-server-memory",
+      "args": [],
+      "env": {
+        "MEMORY_FILE_PATH": "/app/data/projects/6f9d5836-7a19-4cd3-8d89-f043f2410a76/.agent_home_review/.claude/memory.jsonl"
+      }
+    },
+    "jq": {
+      "command": "mcp-jq",
+      "args": []
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {"id":"core-mechanics","name":"核心机制设计","category":"机制系统","description":"定义和打磨游戏的核心玩法机制","difficulty":4,"rarity":"高级","score":55,"application":"玩法原型、系统设计、游戏循环"},
+  {"id":"game-balance","name":"游戏平衡","category":"机制系统","description":"调整数值和系统确保游戏公平有趣","difficulty":5,"rarity":"专家","score":70,"application":"数值策划、PvP平衡、经济系统"},
+  {"id":"economy-design","name":"经济系统设计","category":"机制系统","description":"设计游戏内的资源生产和消耗循环","difficulty":5,"rarity":"专家","score":72,"application":"虚拟经济、资源管理、货币系统"},
+  {"id":"puzzle-design","name":"谜题设计原则","category":"机制系统","description":"创造有趣且有挑战性的谜题","difficulty":3,"rarity":"中级","score":36,"application":"解谜游戏、关卡设计、教学设计"},
+  {"id":"level-design","name":"关卡设计","category":"机制系统","description":"设计引导玩家体验的游戏关卡","difficulty":4,"rarity":"高级","score":48,"application":"空间设计、节奏控制、难度递进"},
+  {"id":"progression-systems","name":"进度系统","category":"机制系统","description":"设计玩家成长和解锁的进度体系","difficulty":3,"rarity":"中级","score":38,"application":"RPG系统、技能树、解锁机制"},
+  {"id":"randomness-design","name":"随机性设计","category":"机制系统","description":"合理运用随机元素增加游戏变化","difficulty":3,"rarity":"中级","score":34,"application":"战利品系统、程序生成、概率设计"},
+  {"id":"asymmetric-design","name":"不对称设计","category":"机制系统","description":"为不同玩家角色设计差异化的能力和体验","difficulty":4,"rarity":"高级","score":56,"application":"多人游戏、阵营设计、角色差异化"},
+  {"id":"emergent-gameplay","name":"涌现式玩法","category":"机制系统","description":"设计简单规则产生复杂有趣的玩法组合","difficulty":5,"rarity":"专家","score":68,"application":"沙盒游戏、系统交互、创意玩法"},
+  {"id":"tutorial-design","name":"教学设计","category":"机制系统","description":"设计自然流畅的游戏教学体验","difficulty":3,"rarity":"中级","score":32,"application":"新手引导、技能教学、渐进式学习"},
+  {"id":"difficulty-curves","name":"难度曲线","category":"机制系统","description":"设计合理的难度递进保持玩家挑战感","difficulty":3,"rarity":"中级","score":36,"application":"关卡设计、Boss设计、技能检查"},
+  {"id":"game-loops","name":"游戏循环","category":"机制系统","description":"设计核心、中层和外层游戏循环","difficulty":4,"rarity":"高级","score":52,"application":"系统架构、玩法节奏、长期留存"},
+  {"id":"input-design","name":"输入设计","category":"机制系统","description":"设计直觉化的玩家输入和控制方案","difficulty":3,"rarity":"中级","score":30,"application":"操控手感、无障碍设计、多平台适配"},
+  {"id":"rule-systems","name":"规则系统","category":"机制系统","description":"构建清晰一致的游戏规则体系","difficulty":3,"rarity":"中级","score":34,"application":"桌游设计、系统设计、规则文档"},
+  {"id":"resource-management","name":"资源管理机制","category":"机制系统","description":"设计有意义的资源获取和消耗决策","difficulty":3,"rarity":"中级","score":36,"application":"策略游戏、生存游戏、经济系统"}
+]

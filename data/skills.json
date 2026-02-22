@@ -1,0 +1,14 @@
+[
+  {"id":"game-design-lenses","name":"游戏设计透镜","category":"设计基础","description":"应用游戏设计透镜工具集评估和改进设计","difficulty":3,"rarity":"中级","score":35,"application":"系统性审视设计、发现问题、寻找改进方向"},
+  {"id":"iterative-design","name":"迭代设计","category":"设计基础","description":"通过反复原型测试和改进来完善游戏设计","difficulty":2,"rarity":"初级","score":20,"application":"快速原型、测试反馈、持续改进"},
+  {"id":"brainstorming","name":"头脑风暴","category":"设计基础","description":"运用创意发散技巧产生大量游戏设计想法","difficulty":1,"rarity":"初级","score":15,"application":"创意阶段、团队协作、概念探索"},
+  {"id":"problem-statement","name":"问题陈述","category":"设计基础","description":"清晰定义设计问题以指导解决方案","difficulty":2,"rarity":"初级","score":18,"application":"项目启动、需求分析、设计方向确定"},
+  {"id":"design-docs","name":"设计文档编写","category":"设计基础","description":"撰写清晰完整的游戏设计文档","difficulty":3,"rarity":"中级","score":30,"application":"团队沟通、项目管理、设计记录"},
+  {"id":"prototyping","name":"原型制作","category":"设计基础","description":"快速构建可玩原型验证设计假设","difficulty":3,"rarity":"中级","score":35,"application":"概念验证、玩法测试、风险降低"},
+  {"id":"design-pillars","name":"设计支柱","category":"设计基础","description":"确立核心设计原则指导所有设计决策","difficulty":3,"rarity":"中级","score":32,"application":"项目愿景、团队对齐、决策框架"},
+  {"id":"risk-assessment","name":"风险评估","category":"设计基础","description":"识别和评估游戏设计中的潜在风险","difficulty":3,"rarity":"中级","score":28,"application":"项目规划、资源分配、问题预防"},
+  {"id":"design-tradeoffs","name":"设计权衡","category":"设计基础","description":"在相互矛盾的设计目标间做出明智选择","difficulty":4,"rarity":"高级","score":45,"application":"复杂决策、资源限制、优先级排序"},
+  {"id":"player-centric","name":"以玩家为中心的设计","category":"设计基础","description":"始终从玩家体验出发进行设计决策","difficulty":3,"rarity":"中级","score":38,"application":"用户研究、体验优化、需求分析"},
+  {"id":"design-vocabulary","name":"设计术语标准","category":"设计基础","description":"掌握和运用标准化的游戏设计术语","difficulty":1,"rarity":"初级","score":12,"application":"团队沟通、行业交流、文档编写"},
+  {"id":"creative-constraints","name":"创意约束","category":"设计基础","description":"利用限制条件激发更有创意的设计方案","difficulty":3,"rarity":"中级","score":33,"application":"资源受限项目、创新突破、设计挑战"}
+]

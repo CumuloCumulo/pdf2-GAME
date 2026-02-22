@@ -1,0 +1,12 @@
+[
+  {"id":"story-structure","name":"故事结构","category":"叙事角色","description":"运用经典叙事结构构建游戏故事","difficulty":3,"rarity":"中级","score":38,"application":"剧情设计、任务线、叙事节奏"},
+  {"id":"character-design","name":"角色塑造","category":"叙事角色","description":"创造有深度和吸引力的游戏角色","difficulty":4,"rarity":"高级","score":48,"application":"NPC设计、主角设计、角色弧线"},
+  {"id":"dialogue-writing","name":"对话写作","category":"叙事角色","description":"撰写自然生动的游戏对话","difficulty":3,"rarity":"中级","score":35,"application":"NPC对话、过场动画、分支剧情"},
+  {"id":"worldbuilding-narrative","name":"叙事世界观","category":"叙事角色","description":"通过叙事手段构建丰富的游戏世界观","difficulty":4,"rarity":"高级","score":50,"application":"背景设定、环境叙事、世界观文档"},
+  {"id":"branching-narrative","name":"分支叙事","category":"叙事角色","description":"设计有意义的玩家选择和分支剧情","difficulty":4,"rarity":"高级","score":52,"application":"RPG对话、多结局、道德选择"},
+  {"id":"environmental-storytelling","name":"环境叙事","category":"叙事角色","description":"通过环境细节传递故事信息","difficulty":3,"rarity":"中级","score":40,"application":"场景设计、道具叙事、视觉线索"},
+  {"id":"hero-journey","name":"英雄之旅","category":"叙事角色","description":"运用英雄之旅模型设计玩家成长历程","difficulty":3,"rarity":"中级","score":34,"application":"主线剧情、角色成长、情感高潮"},
+  {"id":"conflict-design","name":"冲突设计","category":"叙事角色","description":"设计推动叙事发展的核心冲突","difficulty":3,"rarity":"中级","score":36,"application":"剧情张力、Boss叙事、阵营对立"},
+  {"id":"transmedia-ip","name":"跨媒体IP设计","category":"叙事角色","description":"设计可跨平台延展的游戏IP和世界观","difficulty":5,"rarity":"专家","score":75,"application":"IP开发、品牌延展、多平台叙事"},
+  {"id":"player-narrative","name":"玩家叙事","category":"叙事角色","description":"让玩家通过游玩创造自己的故事","difficulty":4,"rarity":"高级","score":46,"application":"沙盒叙事、涌现故事、社交分享"}
+]

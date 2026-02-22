@@ -1,0 +1,3 @@
+{"debug":"Starting connection with timeout of 30000ms","timestamp":"2026-02-22T11:45:07.841Z","sessionId":"876bbc89-2c9a-4ad1-945f-54f6d23af34c","cwd":"/app/data/projects/6f9d5836-7a19-4cd3-8d89-f043f2410a76"}
+{"debug":"Successfully connected to undefined server in 1642ms","timestamp":"2026-02-22T11:45:09.482Z","sessionId":"876bbc89-2c9a-4ad1-945f-54f6d23af34c","cwd":"/app/data/projects/6f9d5836-7a19-4cd3-8d89-f043f2410a76"}
+{"debug":"Connection established with capabilities: {\"hasTools\":true,\"hasPrompts\":true,\"hasResources\":false,\"serverVersion\":{\"name\":\"mcp-fetch\",\"version\":\"1.26.0\"}}","timestamp":"2026-02-22T11:45:09.482Z","sessionId":"876bbc89-2c9a-4ad1-945f-54f6d23af34c","cwd":"/app/data/projects/6f9d5836-7a19-4cd3-8d89-f043f2410a76"}

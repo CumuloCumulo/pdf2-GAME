@@ -1,0 +1,4 @@
+{"debug":"Starting connection with timeout of 30000ms","timestamp":"2026-02-22T11:45:07.844Z","sessionId":"876bbc89-2c9a-4ad1-945f-54f6d23af34c","cwd":"/app/data/projects/6f9d5836-7a19-4cd3-8d89-f043f2410a76"}
+{"error":"Server stderr: MCP jq server running on stdio\n","timestamp":"2026-02-22T11:45:08.123Z","sessionId":"876bbc89-2c9a-4ad1-945f-54f6d23af34c","cwd":"/app/data/projects/6f9d5836-7a19-4cd3-8d89-f043f2410a76"}
+{"debug":"Successfully connected to undefined server in 280ms","timestamp":"2026-02-22T11:45:08.123Z","sessionId":"876bbc89-2c9a-4ad1-945f-54f6d23af34c","cwd":"/app/data/projects/6f9d5836-7a19-4cd3-8d89-f043f2410a76"}
+{"debug":"Connection established with capabilities: {\"hasTools\":true,\"hasPrompts\":false,\"hasResources\":false,\"serverVersion\":{\"name\":\"mcp-jq\",\"version\":\"1.0.0\"}}","timestamp":"2026-02-22T11:45:08.123Z","sessionId":"876bbc89-2c9a-4ad1-945f-54f6d23af34c","cwd":"/app/data/projects/6f9d5836-7a19-4cd3-8d89-f043f2410a76"}

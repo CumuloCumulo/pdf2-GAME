@@ -1,0 +1,10 @@
+[
+  {"id":"multiplayer-design","name":"多人游戏设计","category":"社交系统","description":"设计有趣的多人交互和协作体验","difficulty":4,"rarity":"高级","score":52,"application":"合作模式、对战模式、社交功能"},
+  {"id":"community-building","name":"社区建设","category":"社交系统","description":"培育和管理健康的玩家社区","difficulty":3,"rarity":"中级","score":36,"application":"论坛管理、玩家活动、UGC支持"},
+  {"id":"social-mechanics","name":"社交机制","category":"社交系统","description":"设计促进玩家间社交互动的游戏机制","difficulty":4,"rarity":"高级","score":48,"application":"公会系统、交易系统、社交奖励"},
+  {"id":"competitive-design","name":"竞技设计","category":"社交系统","description":"设计公平刺激的竞技对战体验","difficulty":4,"rarity":"高级","score":50,"application":"排位系统、匹配算法、电竞设计"},
+  {"id":"cooperative-design","name":"合作设计","category":"社交系统","description":"设计需要玩家协作的游戏体验","difficulty":3,"rarity":"中级","score":38,"application":"团队副本、合作解谜、角色互补"},
+  {"id":"anti-grief","name":"反作弊与反骚扰","category":"社交系统","description":"设计防止恶意行为的系统和机制","difficulty":4,"rarity":"高级","score":44,"application":"举报系统、行为检测、惩罚机制"},
+  {"id":"live-ops","name":"运营设计","category":"社交系统","description":"设计持续更新和运营的游戏内容策略","difficulty":4,"rarity":"高级","score":46,"application":"赛季系统、活动设计、内容更新"},
+  {"id":"social-impact","name":"游戏社会影响分析","category":"社交系统","description":"评估和设计游戏对社会的积极影响","difficulty":5,"rarity":"大师","score":85,"application":"严肃游戏、教育游戏、社会责任"}
+]

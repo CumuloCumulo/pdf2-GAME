@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Game Design Art Skill Deck</title>
+  <link href="https://cdn.bootcdn.net/ajax/libs/daisyui/5.1.25/daisyui.css" rel="stylesheet">
+  <link href="https://cdn.bootcdn.net/ajax/libs/daisyui/5.1.25/themes.css" rel="stylesheet">
+  <script src="https://cdn.bootcdn.net/ajax/libs/tailwindcss-browser/4.1.13/index.global.min.js"></script>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <h1>🎮 Skill Deck</h1>
+      <div class="subtitle">游戏设计艺术 · 技能图鉴</div>
+      <button id="shareBtn" class="btn btn-ghost btn-sm absolute right-3 top-4 text-base-content/50">📤</button>
+    </header>
+
+    <!-- Progress -->
+    <div class="progress-bar-wrap">
+      <div class="progress-info">
+        <span id="progressText">已收集 0 / 72</span>
+        <span id="progressPct">0%</span>
+      </div>
+      <div class="progress-track"><div class="progress-fill" id="progressFill"></div></div>
+    </div>
+
+    <!-- Pages -->
+    <div id="page-collect" class="page active">
+      <div class="upload-zone" id="uploadZone">
+        <div class="upload-icon">📸</div>
+        <div class="upload-text">拍照 / 选择图片 / 拖拽上传</div>
+        <div class="upload-hint">支持 JPG / PNG / WEBP，最大 10MB</div>
+        <input type="file" id="fileInput" accept="image/jpeg,image/png,image/webp" hidden>
+      </div>
+      <div class="preview-area" id="previewArea">
+        <img id="previewImg" src="" alt="预览">
+        <div class="preview-actions">
+          <button class="btn btn-sm btn-outline" id="cancelBtn">取消</button>
+          <button class="btn btn-sm btn-primary" id="recognizeBtn">🔍 识别技能</button>
+        </div>
+      </div>
+      <div class="recognize-loading" id="loadingArea">
+        <div class="spinner"></div>
+        <div style="color:var(--text-muted);font-size:0.85rem">AI 识别中，请稍候...</div>
+      </div>
+      <div class="result-card-wrap" id="resultCard">
+        <div class="card-flipper" id="cardFlipper">
+          <div class="card-front">❓</div>
+          <div class="card-back" id="cardBack"></div>
+        </div>
+      </div>
+      <div class="confirm-btn-wrap" id="confirmWrap">
+        <button class="btn btn-primary btn-sm" id="confirmBtn">✨ 收藏到图鉴</button>
+        <button class="btn btn-ghost btn-sm ml-2" id="retryBtn">重新识别</button>
+      </div>
+    </div>
+
+    <div id="page-gallery" class="page">
+      <div id="galleryContent"></div>
+    </div>
+
+    <div id="page-achieve" class="page">
+      <div class="achievement-list" id="achieveList"></div>
+    </div>
+
+    <div id="page-profile" class="page">
+      <div class="stats-grid" id="statsGrid"></div>
+      <div style="text-align:center;margin-top:1.5rem">
+        <button class="btn btn-error btn-sm btn-outline" id="clearDataBtn">🗑️ 清除所有数据</button>
+      </div>
+    </div>
+
+    <!-- Bottom Nav -->
+    <nav class="bottom-nav">
+      <button class="nav-item active" data-page="collect"><span class="nav-icon">📸</span>收集</button>
+      <button class="nav-item" data-page="gallery"><span class="nav-icon">📖</span>图鉴</button>
+      <button class="nav-item" data-page="achieve"><span class="nav-icon">🏆</span>成就</button>
+      <button class="nav-item" data-page="profile"><span class="nav-icon">👤</span>我的</button>
+    </nav>
+  </div>
+
+  <!-- Share Modal -->
+  <div class="share-modal-overlay" id="shareModal">
+    <div class="share-modal">
+      <button class="close-btn" id="closeShare">✕</button>
+      <h3 style="font-size:1rem;font-weight:700;margin-bottom:0.8rem">分享我的图鉴</h3>
+      <div class="share-card-preview" id="shareCardContent">
+        <h3>🎮 Skill Deck</h3>
+        <div class="share-stats" id="shareStats"></div>
+        <div id="share-qr" style="display:inline-block"></div>
+      </div>
+      <img class="share-result-img" id="shareResultImg" style="display:none" alt="分享图片">
+      <div class="share-tip" id="shareTip"></div>
+    </div>
+  </div>
+
+  <!-- Detail Modal -->
+  <div class="detail-modal-overlay" id="detailModal">
+    <div class="detail-modal">
+      <button class="close-btn" id="closeDetail">✕</button>
+      <div id="detailContent"></div>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <script src="https://cdn.bootcdn.net/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+  <script src="https://registry.npmmirror.com/html2canvas-pro/1.6.7/files/dist/html2canvas-pro.min.js"></script>
+  <script src="/static/js/api.js"></script>
+  <script src="/static/js/ui.js"></script>
+  <script src="/static/js/app.js"></script>
+</body>
+</html>

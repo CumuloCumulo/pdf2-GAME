@@ -1,0 +1,14 @@
+[
+  {"id":"playtesting","name":"游戏测试","category":"测试评估","description":"组织和执行有效的游戏测试会话","difficulty":2,"rarity":"初级","score":20,"application":"原型测试、用户测试、迭代改进"},
+  {"id":"usability-testing","name":"可用性测试","category":"测试评估","description":"评估游戏界面和交互的易用性","difficulty":3,"rarity":"中级","score":32,"application":"UI测试、新手体验、无障碍评估"},
+  {"id":"metrics-analysis","name":"数据指标分析","category":"测试评估","description":"通过数据分析评估游戏表现和玩家行为","difficulty":4,"rarity":"高级","score":48,"application":"留存分析、漏斗分析、A/B测试"},
+  {"id":"focus-groups","name":"焦点小组","category":"测试评估","description":"组织焦点小组获取深度玩家反馈","difficulty":3,"rarity":"中级","score":30,"application":"概念验证、功能评估、市场调研"},
+  {"id":"bug-tracking","name":"缺陷追踪","category":"测试评估","description":"系统化管理和追踪游戏缺陷","difficulty":2,"rarity":"初级","score":18,"application":"QA流程、版本管理、质量保证"},
+  {"id":"balance-testing","name":"平衡性测试","category":"测试评估","description":"测试和调整游戏数值平衡","difficulty":4,"rarity":"高级","score":50,"application":"数值验证、PvP测试、经济模拟"},
+  {"id":"accessibility-eval","name":"无障碍评估","category":"测试评估","description":"评估游戏对不同能力玩家的可访问性","difficulty":3,"rarity":"中级","score":34,"application":"色盲测试、操控适配、字幕系统"},
+  {"id":"performance-testing","name":"性能测试","category":"测试评估","description":"测试游戏在各种硬件上的性能表现","difficulty":3,"rarity":"中级","score":28,"application":"帧率优化、内存管理、加载时间"},
+  {"id":"competitive-analysis","name":"竞品分析","category":"测试评估","description":"系统分析竞争对手的游戏设计","difficulty":3,"rarity":"中级","score":32,"application":"市场定位、差异化设计、趋势分析"},
+  {"id":"post-mortem","name":"项目复盘","category":"测试评估","description":"项目结束后系统总结经验教训","difficulty":2,"rarity":"初级","score":22,"application":"团队学习、流程改进、知识沉淀"},
+  {"id":"player-feedback","name":"玩家反馈收集","category":"测试评估","description":"设计有效的玩家反馈收集和分析机制","difficulty":3,"rarity":"中级","score":30,"application":"问卷设计、评论分析、社区倾听"},
+  {"id":"qa-methodology","name":"QA方法论","category":"测试评估","description":"建立系统化的游戏质量保证流程","difficulty":3,"rarity":"中级","score":34,"application":"测试计划、回归测试、发布标准"}
+]

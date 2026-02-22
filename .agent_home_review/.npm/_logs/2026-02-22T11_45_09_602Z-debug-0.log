@@ -1,0 +1,16 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.20.0
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/app/data/projects/6f9d5836-7a19-4cd3-8d89-f043f2410a76/.agent_home_review/.npmrc
+5 silly config load:file:/usr/etc/npmrc
+6 verbose title npm root
+7 verbose argv "root" "--global"
+8 verbose logfile logs-max:10 dir:/app/data/projects/6f9d5836-7a19-4cd3-8d89-f043f2410a76/.agent_home_review/.npm/_logs/2026-02-22T11_45_09_602Z-
+9 verbose logfile /app/data/projects/6f9d5836-7a19-4cd3-8d89-f043f2410a76/.agent_home_review/.npm/_logs/2026-02-22T11_45_09_602Z-debug-0.log
+10 verbose cwd /app/data/projects/6f9d5836-7a19-4cd3-8d89-f043f2410a76
+11 verbose os Linux 6.8.0-90-generic
+12 verbose node v20.20.0
+13 verbose npm  v10.8.2
+14 verbose exit 0
+15 info ok
